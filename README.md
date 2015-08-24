@@ -1,4 +1,3 @@
-# Articles about technology and trading
+# Articles about technology and trading *Gilles Pirio*
 
-Gilles Pirio
-
+* [Visualizing order books on Ripple](http://nbviewer.ipython.org/github/gip/techtrading/blob/master/ripple/OrderbooksRipple.ipynb) *August 20, 2015*
