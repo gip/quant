@@ -2,9 +2,12 @@
 
 ### Notebooks
 
-* [Visualizing order books on Ripple](http://nbviewer.ipython.org/github/gip/techtrading/blob/master/ripple/OrderbooksRipple.ipynb) <code><i>August 20, 2015</i></code>
-* [Visualizing order books in time](http://nbviewer.ipython.org/github/gip/techtrading/blob/master/ripple/VisualizingOrderBookTime.ipynb) <code><i>August 25, 2015</i></code>
+* [Visualizing order books on Ripple](http://nbviewer.ipython.org/github/gip/quant/blob/master/ripple/OrderbooksRipple.ipynb) <code><i>August 20, 2015</i></code>
+* [Visualizing order books in time](http://nbviewer.ipython.org/github/gip/quant/blob/master/ripple/VisualizingOrderBookTime.ipynb) <code><i>August 25, 2015</i></code>
 
+### Politics
+
+* [Who Has Gun Control Right?](http://nbviewer.ipython.org/github/gip/quant/blob/master/politics/GunControl.ipynb) <code><i>October 29, 2015</i></code>
 
 ### Image du jour
 
